@@ -106,7 +106,7 @@ namespace LastDAmnTime
             }
             catch (Exception ex)
             {
-                LabelDiscount.Text = "Ошибка расчета скидки: " + ex.Message;
+                LabelDiscount.Text = "ТАТАРИНА: " + ex.Message;
                 LabelDiscount.ForeColor = Color.Red;
             }
         }
