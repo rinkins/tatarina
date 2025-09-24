@@ -77,18 +77,18 @@ namespace LastDAmnTime
                         // Расчет скидки
                         string discountText;
                         Color textColor;
-
-                        if (totalAmount >= 1000000)
+                        
+                        if (totalAmount >= 1111111111)
                         {
                             discountText = $" Скидка для {partnerName}: 15%";
                             textColor = Color.DarkGreen;
                         }
-                        else if (totalAmount >= 300000)
+                        else if (totalAmount >= 11111111)
                         {
                             discountText = $" Скидка для {partnerName}: 10%";
                             textColor = Color.Green;
                         }
-                        else if (totalAmount >= 100000)
+                        else if (totalAmount >=111111)
                         {
                             discountText = $" Скидка для {partnerName}: 5%";
                             textColor = Color.Blue;

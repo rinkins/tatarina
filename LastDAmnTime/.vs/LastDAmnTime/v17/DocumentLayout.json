@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "H:\\\u0418\u0421\u0420\u041F\u041E\\tatarina\\LastDAmnTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86EB77F8-02B1-476F-981D-28DFC265DED2}|LastDAmnTime.csproj|H:\\\u0418\u0421\u0420\u041F\u041E\\tatarina\\LastDAmnTime\\\u043F\u0430\u0440\u0442\u043D\u0435\u0440\u044B1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86EB77F8-02B1-476F-981D-28DFC265DED2}|LastDAmnTime.csproj|h:\\\u0438\u0441\u0440\u043F\u043E\\tatarina\\lastdamntime\\\u043F\u0430\u0440\u0442\u043D\u0435\u0440\u044B1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86EB77F8-02B1-476F-981D-28DFC265DED2}|LastDAmnTime.csproj|solutionrelative:\u043F\u0430\u0440\u0442\u043D\u0435\u0440\u044B1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,8 +81,7 @@
               "RelativeToolTip": "..\\..\\..\\\u0423\u041F 2-14.09\\UnitTestProject1\\UnitTest1.cs",
               "ViewState": "AQIAAF8AAAAAAAAAAAAYwNsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T07:25:33.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T07:25:33.525Z"
             },
             {
               "$type": "Document",
@@ -128,8 +127,7 @@
               "ToolTip": "H:\\\u0418\u0421\u0420\u041F\u041E\\tatarina\\LastDAmnTime\\\u043F\u0435\u0440\u04412.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "\u043F\u0435\u0440\u04412.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:39:59.485Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-09-10T11:39:59.485Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "ToolTip": "H:\\\u0418\u0421\u0420\u041F\u041E\\tatarina\\LastDAmnTime\\\u043F\u0435\u0440\u04411.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "\u043F\u0435\u0440\u04411.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:39:51.02Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-09-10T11:39:51.02Z"
             },
             {
               "$type": "Document",
@@ -163,7 +160,7 @@
               "RelativeDocumentMoniker": "\u043F\u0430\u0440\u0442\u043D\u0435\u0440\u044B1.cs",
               "ToolTip": "H:\\\u0418\u0421\u0420\u041F\u041E\\tatarina\\LastDAmnTime\\\u043F\u0430\u0440\u0442\u043D\u0435\u0440\u044B1.cs",
               "RelativeToolTip": "\u043F\u0430\u0440\u0442\u043D\u0435\u0440\u044B1.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAswGcAAAAVAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAswFAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T10:06:12.413Z",
               "EditorCaption": ""
